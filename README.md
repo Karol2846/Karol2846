@@ -9,3 +9,8 @@ This is where most of the 'magic' happens. I'm no stranger to programming the fr
 
 ## My Hobbies
 In addition to programming, I also enjoy few other things. For example:
+- cycling
+- singing - choral and solo
+- strength training
+
+ 
