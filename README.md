@@ -10,6 +10,7 @@ This is where most of the 'magic' happens. I'm no stranger to programming the fr
 ## What am I currently do?
 I wokring on imporoving my java knowleadge.
 I am preparing for the exam IZ0-829 (Oracle Certified Profesional Java SE 17 Developer).
+In between I am also developing existing projects & thinkig about new ideas 🤓
 
 ## My Hobbies
 In addition to programming, I also enjoy few other things. For example:
