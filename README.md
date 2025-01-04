@@ -1,6 +1,6 @@
 # About me
 I'm a fourth year's computer science student, fascinated by programming.
-I am a disciplined person and eager to learn new things, fortunately I'm a very fast learner🤓
+I am a disciplined person and eager to learn new things, fortunately I'm a very fast learner🤓<br>
 I'm mainly intrested in backend programming, but I also find intresting databases or project-managing.
 
 ## Why backend?
