@@ -1,20 +1,11 @@
 # About me
-I'm a fourth year's computer science student, fascinated by programming.
-I am a disciplined person and eager to learn new things, fortunately I'm a very fast learner🤓<br>
-I'm mainly intrested in backend programming, but I also find intresting databases or project-managing.
+Hi, I'm Karol <br>
+I work as a java backend developer in microservice architecture
 
-## Why backend?
-I have always wanted to be the 'man at the helm', and the backend provides that opportunity. <br>
-This is where most of the 'magic' happens.
-I'm no stranger to programming the front part of an application and I have nothing against it, it's just that the backend is more interesting. 
+# What am I currently learning
+I learn automatic tests, event driven development, heksagonal architecture and few other thinks 🤓
 
-## What am I currently do?
-I wokring on imporoving my java knowleadge 🧑‍💻. <br>
-I am preparing for the exam IZ0-829 (Oracle Certified Profesional Java SE 17 Developer) 👨‍🎓. <br>
-In between I am also developing existing projects & thinkig about new ideas 🤓
-
-## My Hobbies
-In addition to programming, I also enjoy few other things. For example:
-- cycling 🚵‍♀️
-- singing - choral and solo 🎤🎶
-- strength training 🏋️‍♂️
+# What am I working on
+I'm creating web scrubber for financial data. It'll fetch data from financial API's & save them <br>
+The data flow is optimised as much as possible and scheduled automatically. <br>
+For seek of using free access to financial API's, rate limiting mechanism are obtained
